@@ -15,5 +15,6 @@ Firstly, you must change the `apiKey` and `apiSecret` located in the `app.py` fi
 
 ## Authors
 * Dennis Smith
+* John Opoku - [johnopoku](https://github.com/johnopoku)
 
 Powered by Dubtel Consulting, LLC.
