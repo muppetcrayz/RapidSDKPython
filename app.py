@@ -5,8 +5,8 @@ import json
 
 class RapidSDK:
 
-    apiKey = "8903452b776f9a0e23c0d8d63de9fc43ce18bf90f60513fadf55de9072200f03"
-    apiSecret = "0b7cdd0a04c40a32e903c38b4beacc5a4ce0937aa464215fdc39018009136169"
+    apiKey = "API_KEY"
+    apiSecret = "API_SECRET"
     sessionID = ""
 
     def login(self, username, password):
